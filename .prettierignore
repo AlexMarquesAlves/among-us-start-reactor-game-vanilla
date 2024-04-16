@@ -1,3 +1,6 @@
 public/
 package-lock.json
 
+# Ignore artifacts:
+build
+coverage
